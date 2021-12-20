@@ -3,7 +3,7 @@
 * <u>What is React? Is it a library or framework? What's the difference between those?</u>
   - React is a UI library. It's a library not a framework because you call it in your code; it can be integrated into part of or the entire UI
 * <u>Why use React?</u>
-  - We use it to make `single page` front end applications
+  - We use it to make **single page** front end applications
   - Lets us dynamically create and render components without having to refresh pages
 * <u>What is the difference between React and ReactDOM?</u>
   - React is a higher level package for both ReactDOM and React Native
